@@ -16,11 +16,14 @@ Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO ca
  - [1 Service](https://github.com/NetCoreApps/redis-geo/blob/master/src/RedisGeo.ServiceInterface/RedisGeoServices.cs)
  - [1 default.html](https://github.com/NetCoreApps/redis-geo/blob/master/src/RedisGeo/wwwroot/default.html)
 
+
 ## [Chat](https://github.com/NetCoreApps/Chat)
 
 > Feature rich Single Page Chat App, showcasing Server Events support in 170 lines of JavaScript!
 
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/chat.png)](http://chat.netcore.io)
+
+> Live Demo: http://chat.netcore.io
 
 #### Features 
 
@@ -39,11 +42,14 @@ Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO ca
   - [Direct Messaging](https://github.com/NetCoreApps/Chat#sending-a-message-to-a-specific-user)
   - [Server Event Services](https://github.com/NetCoreApps/Chat#server-event-services)
 
+
 ## [SimpleAuth.Mvc](https://github.com/NetCoreApps/SimpleAuth.Mvc)
 
 > Simple demo showcasing integration and authentication with ServiceStack from ASP.NET MVC
 
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/mvc.png)](http://mvc.netcore.io)
+
+> Live Demo: http://mvc.netcore.io
 
 #### Features
 
@@ -56,7 +62,6 @@ Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO ca
     - Yandex
   - [JS Utils and Forms AutoBinding](http://docs.servicestack.net/ss-utils-js.html)
 
-> Demo for ServiceStack with ASP.NET WebForms available at [webforms.netcore.io](http://webforms.netcore.io/)
 
 ## [StackApis](https://github.com/NetCoreApps/StackApis)
 
@@ -64,17 +69,22 @@ Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO ca
 
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/stackapis.png)](http://stackapis.netcore.io)
 
+> Live Demo: http://stackapis.netcore.io
+
 #### Features
 
  - [AutoQuery](http://docs.servicestack.net/autoquery.html)
  - [StackApis AutoQuery Service](https://github.com/NetCoreApps/StackApis#stackapis-autoquery-service)
  - [OrmLite Sqlite](https://github.com/ServiceStack.OrmLite)
 
+
 ## [Imgur](https://github.com/NetCoreApps/Imgur)
 
 > Imgur-like App to resize uploaded images in all iOS Resolutions in <30 lines of JavaScript + 1 ServiceStack ImageService
 
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/imgur.png)](http://imgur.netcore.io)
+
+> Live Demo: http://imgur.netcore.io
 
 #### Features
 
@@ -88,6 +98,8 @@ Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO ca
 
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/todos.png)](http://todos.netcore.io)
 
+> Live Demo: http://todos.netcore.io
+
 #### Features
 
  - [1 ServicStack back-end .cs file](https://github.com/NetCoreApps/Todos/blob/master/src/Todos/Startup.cs)
@@ -100,6 +112,8 @@ Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO ca
 
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/razor.png)](http://razor.netcore.io)
 
+> Live Demo: http://razor.netcore.io
+
 #### Features
 
  - [OrmLite Sqlite](https://github.com/ServiceStack.OrmLite)
@@ -110,28 +124,19 @@ Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO ca
  - [Built-in Markdown](http://razor.netcore.io/#markdown)
  - [Optimized for developer productivity](http://razor.netcore.io/#optimized-for-dev)
 
+
 ## [Rest Files](https://github.com/NetCoreApps/RestFiles)
 
 > GitHub-like browser with complete remote file management over REST APIs in 1 page of jQuery and 1 FileService.cs
 
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/restfiles.png)](http://restfiles.netcore.io)
 
+> Live Demo: http://restfiles.netcore.io
+
 #### Features
 
  - [1 Page jQuery](https://github.com/NetCoreApps/RestFiles/blob/master/src/RestFiles/wwwroot/default.htm)
  - [1 ServiceStack FilesService](https://github.com/NetCoreApps/RestFiles/blob/master/src/RestFiles.ServiceInterface/FilesService.cs)
-
-## [Redis StackOverflow](https://github.com/NetCoreApps/RedisStackOverflow)
-
-> Mini StackOverflow Single Page App built using just ServiceStack + Redis
-
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redisstackoverflow.png)](http://redisstackoverflow.netcore.io)
-
-#### Features
-
- - [1 Page jQuery](https://github.com/NetCoreApps/RedisStackOverflow/blob/master/src/RedisStackOverflow/wwwroot/default.htm)
- - [1 Redis Repository](https://github.com/NetCoreApps/RedisStackOverflow/blob/master/src/RedisStackOverflow.ServiceInterface/IRepository.cs)
- - [ServiceStack.Redis C# Client](https://github.com/ServiceStack/ServiceStack.Redis)
 
 
 ## [Northwind](https://github.com/NetCoreApps/Northwind)
@@ -139,6 +144,8 @@ Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO ca
 > Northwind database viewer, showing how to easily expose read and cached view services of an internal dataset with ServiceStack + OrmLite
 
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/northwind.png)](http://northwind.netcore.io)
+
+> Live Demo: http://northwind.netcore.io
 
 #### Features
 
@@ -150,3 +157,16 @@ Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO ca
  - [1 CachedService](https://github.com/NetCoreApps/Northwind/blob/master/src/Northwind.ServiceInterface/CachedServices.cs)
 
 
+## [Redis StackOverflow](https://github.com/NetCoreApps/RedisStackOverflow)
+
+> Mini StackOverflow Single Page App built using just ServiceStack + Redis
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redisstackoverflow.png)](http://redisstackoverflow.netcore.io)
+
+> Live Demo: http://redisstackoverflow.netcore.io
+
+#### Features
+
+ - [1 Page jQuery](https://github.com/NetCoreApps/RedisStackOverflow/blob/master/src/RedisStackOverflow/wwwroot/default.htm)
+ - [1 Redis Repository](https://github.com/NetCoreApps/RedisStackOverflow/blob/master/src/RedisStackOverflow.ServiceInterface/IRepository.cs)
+ - [ServiceStack.Redis C# Client](https://github.com/ServiceStack/ServiceStack.Redis)
