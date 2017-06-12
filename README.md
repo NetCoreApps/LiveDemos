@@ -1,7 +1,7 @@
 ServiceStack .NET Core Live Demos
 =================================
 
-Live Demos of .NET Core Apps. More ServiceStack Demos available at [github.com/ServiceStackApps](https://github.com/ServiceStackApps/LiveDemos).
+Live Demos of .NET Core Apps. More ServiceStack Demos available at [github.com/ServiceStackApps](https://github.com/ServiceStackApps/LiveDemos#live-servicestack-demos).
 
 ## [Redis GEO](https://github.com/NetCoreApps/redis-geo)
 
