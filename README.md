@@ -161,9 +161,7 @@ Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO ca
 
 > Mini StackOverflow Single Page App built using just ServiceStack + Redis
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redisstackoverflow.png)](http://redisstackoverflow.netcore.io)
-
-> Live Demo: http://redisstackoverflow.netcore.io
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redisstackoverflow.png)](https://github.com/NetCoreApps/RedisStackOverflow)
 
 #### Features
 
