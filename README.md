@@ -8,7 +8,7 @@ Live Demos of .NET Core Apps. More ServiceStack Demos available at [ServiceStack
 
 TechStacks makes it easy to find, discuss and share information on your favorite technologies with others sharing similar interests:
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redis-geo/redisgeo-screenshot.png)](https://techstacks.io)
+[![](https://raw.githubusercontent.com/ServiceStack/docs/master/docs/images/release-notes/techstacks-new.png)](https://techstacks.io)
 
 > Live Demo: https://techstacks.io
 
