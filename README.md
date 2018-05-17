@@ -3,6 +3,26 @@ ServiceStack .NET Core Live Demos
 
 Live Demos of .NET Core Apps. More ServiceStack Demos available at [ServiceStackApps](https://github.com/ServiceStackApps/LiveDemos#live-servicestack-demos) and [NetCoreWebApps](https://github.com/NetCoreWebApps/LiveDemos).
 
+
+## [New TechStacks](https://github.com/NetCoreApps/TechStacks)
+
+TechStacks makes it easy to find, discuss and share information on your favorite technologies with others sharing similar interests:
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redis-geo/redisgeo-screenshot.png)](https://techstacks.io)
+
+> Live Demo: https://techstacks.io
+
+#### Features
+
+ - [Recommended .NET SPA Stack](https://github.com/NetCoreApps/TechStacks#recommended-net-spa-stack)
+ - [Netlify CDN static hosting](https://github.com/NetCoreApps/TechStacks#netlify-cdn)
+ - [Reddit, HN, Discourse and StackOverflow Community Enhanced features](https://github.com/NetCoreApps/TechStacks#the-new-community-enhanced-techstacks)
+ - [Simple rsync Deployments](https://github.com/NetCoreApps/TechStacks#deployments)
+ - [Client / Server Validation with Vuetify](https://github.com/NetCoreApps/TechStacks#client--server-validation-with-vuetify)
+ - [Extensible AutoQuery Services](https://github.com/NetCoreApps/TechStacks#extensible-autoquery-services)
+ - [Background MQ Email Service](https://github.com/NetCoreApps/TechStacks#background-mq-service)
+
+
 ## [Redis GEO](https://github.com/NetCoreApps/redis-geo)
 
 Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO capabilities](http://antirez.com/news/104):
