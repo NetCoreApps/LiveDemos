@@ -1,7 +1,7 @@
 ServiceStack .NET Core Live Demos
 =================================
 
-Live Demos of .NET Core Apps. More ServiceStack Demos available at [ServiceStackApps](https://github.com/ServiceStackApps/LiveDemos#live-servicestack-demos) and [NetCoreWebApps](https://gist.github.com/gistlyn/f555677c98fb235dccadcf6d87b9d098#live-demos).
+Live Demos of .NET Core Apps. More ServiceStack Demos available at [ServiceStackApps](https://github.com/ServiceStackApps/LiveDemos#live-servicestack-demos) and [Sharp Apps](https://gist.github.com/gistlyn/f555677c98fb235dccadcf6d87b9d098#live-demos).
 
 
 ## [New TechStacks](https://github.com/NetCoreApps/TechStacks)
