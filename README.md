@@ -67,9 +67,9 @@ Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO ca
 
 > Simple demo showcasing integration and authentication with ServiceStack from ASP.NET MVC
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/mvc.png)](http://mvc.netcore.io)
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/mvc.png)](https://mvc.netcore.io)
 
-> Live Demo: http://mvc.netcore.io
+> Live Demo: https://mvc.netcore.io
 
 #### Features
 
