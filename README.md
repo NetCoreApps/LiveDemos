@@ -3,6 +3,29 @@ ServiceStack .NET Core Live Demos
 
 Live Demos of .NET Core Apps. More ServiceStack Demos available at [ServiceStackApps](https://github.com/ServiceStackApps/LiveDemos#live-servicestack-demos) and [Sharp Apps](https://gist.github.com/gistlyn/f555677c98fb235dccadcf6d87b9d098#live-demos).
 
+## [World Validation](https://github.com/NetCoreApps/Validation)
+
+Auth and Validation Examples using Server HTML Forms, jQuery, TypeScript, Vuetify, Razor and Sharp Pages
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/apps/Validation/home.png)](http://validation.web-app.io/)
+
+> Live Demo: [validation.web-app.io](http://validation.web-app.io/)
+
+#### Server Rendered HTML UIs
+
+ - [Sharp Pages using Server Controls](https://github.com/NetCoreApps/Validation/tree/master/world/wwwroot/server) - [demo](http://validation.web-app.io/server/)
+ - [Server HTML enhanced with TypeScript](https://github.com/NetCoreApps/Validation/tree/master/world/wwwroot/server-ts) - [demo](http://validation.web-app.io/server-ts/)
+ - [Server HTML enhanced with jQuery](https://github.com/NetCoreApps/Validation/tree/master/world/wwwroot/server-jquery) - [demo](http://validation.web-app.io/server-jquery/)
+ - [ServiceStack.Razor using Razor Helpers](https://github.com/NetCoreApps/Validation/tree/master/world/wwwroot/server-razor) - [demo](http://validation.web-app.io/server-razor/)
+
+#### Client HTML UIs
+
+ - [Vue App using Vuetify’s Material Design Controls using ServiceClient Requests](https://github.com/NetCoreApps/Validation/tree/master/world/wwwroot/vuetify) - [demo](http://validation.web-app.io/vuetify/)
+ - [TypeScript UI using Ajax Forms and ServiceClient Requests](https://github.com/NetCoreApps/Validation/tree/master/world/wwwroot/client-ts) - [demo](http://validation.web-app.io/client-jquery/)
+ - [JavaScript UI using jQuery Ajax Requests](https://github.com/NetCoreApps/Validation/tree/master/world/wwwroot/client-ts) - [demo](http://validation.web-app.io/client-jquery/)
+ - [Client jQuery Ajax Requests rendered by Razor pages](https://github.com/NetCoreApps/Validation/tree/master/world/wwwroot/client-razor) - [demo](http://validation.web-app.io/client-razor/)
+ 
+For more info see the [World Validation docs](https://docs.servicestack.net/world-validation).
 
 ## [New TechStacks](https://github.com/NetCoreApps/TechStacks)
 
