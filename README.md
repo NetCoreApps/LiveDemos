@@ -5,7 +5,7 @@ Live Demos of .NET Core Apps. More ServiceStack Demos available at [ServiceStack
 
 ## [Sign in with Apple](https://github.com/NetCoreApps/AppleSignIn)
 
-Simple Auth App configured with `AppleAuthProvider` that includes Flutter iOS/Android & Swift UI Integration Examples.
+Simple Auth App configured with `AppleAuthProvider` inc. Flutter iOS/Android & Swift UI Integration Examples.
 
 [![](https://raw.githubusercontent.com/ServiceStack/docs/master/docs/images/dev/ios-swiftui-xcode-capability.png)](https://github.com/NetCoreApps/AppleSignIn)
 
