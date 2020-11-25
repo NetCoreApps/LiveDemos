@@ -3,6 +3,39 @@ ServiceStack .NET Core Live Demos
 
 Live Demos of .NET Core Apps. More ServiceStack Demos available at [ServiceStackApps](https://github.com/ServiceStackApps/LiveDemos#live-servicestack-demos) and [Sharp Apps](https://gist.github.com/gistlyn/f555677c98fb235dccadcf6d87b9d098#live-demos).
 
+## [Sign in with Apple](https://github.com/NetCoreApps/AppleSignIn)
+
+Simple Auth App configured with `AppleAuthProvider` that includes Flutter iOS/Android & Swift UI Integration Examples.
+
+[![](https://raw.githubusercontent.com/ServiceStack/docs/master/docs/images/dev/ios-swiftui-xcode-capability.png)](https://github.com/NetCoreApps/AppleSignIn)
+
+## [BookingsCrud](https://github.com/NetCoreApps/BookingsCrud)
+
+Leverage [AutoQuery CRUD](https://docs.servicestack.net/autoquery-crud), ServiceStack [Studio](https://docs.servicestack.net/studio) with [User Admin module](https://docs.servicestack.net/studio-users) to create a Bookings System from scratch in minutes!
+
+> YouTube: [youtu.be/XpHAaCTV7jE](https://youtu.be/XpHAaCTV7jE)
+
+[![](https://raw.githubusercontent.com/ServiceStack/docs/master/docs/images/studio/bookings-crud-screenshot.png)](https://github.com/NetCoreApps/BookingsCrud)
+
+#### Features
+
+ - [ServiceStack Studio](https://docs.servicestack.net/studio)
+
+## [Northwind CRUD](https://github.com/NetCoreApps/NorthwindCrud)
+
+Showcase of using [AutoQuery AutoGen](https://docs.servicestack.net/autogen) to instantly generate [ServiceStack gRPC](https://docs.servicestack.net/grpc) compatible Services.
+
+> YouTube: [youtu.be/5NNCaWMviXU](https://youtu.be/5NNCaWMviXU)
+
+[![](https://raw.githubusercontent.com/ServiceStack/docs/master/docs/images/release-notes/v5.9/autogen-grpc.png)](https://github.com/NetCoreApps/NorthwindCrud)
+
+#### Features
+
+ - [ServiceStack gRPC](https://docs.servicestack.net/grpc)
+ - [Instantly Servicify existing Systems](https://docs.servicestack.net/servicify)
+ - [AutoGen](https://docs.servicestack.net/autogen)
+ - [ServiceStack Studio](https://docs.servicestack.net/studio)
+
 ## [Todo World](https://github.com/NetCoreApps/todo-world)
 
 A Todo App exploring the wide world around how easy it is to consume ServiceStack Services in different languages!
@@ -34,6 +67,19 @@ Auth and Validation Examples using Server HTML Forms, jQuery, TypeScript, Vuetif
  - [Client jQuery Ajax Requests rendered by Razor pages](https://github.com/NetCoreApps/Validation/tree/master/world/wwwroot/client-razor) - [demo](http://validation.web-app.io/client-razor/)
  
 For more info see the [World Validation docs](https://docs.servicestack.net/world-validation).
+
+## [Northwind Auto](https://github.com/NetCoreApps/NorthwindAuto)
+
+Empty App only configured with `northwind.sqlite` and AutoQuery to showcase [AutoGen to instantly servicify existing systems](https://docs.servicestack.net/servicify)!
+
+[![](https://raw.githubusercontent.com/ServiceStack/docs/master/docs/images/apps/NorthwindAuto.png)](https://github.com/NetCoreApps/NorthwindAuto)
+
+#### Features
+
+ - [Instantly Servicify existing Systems](https://docs.servicestack.net/servicify)
+ - [AutoGen](https://docs.servicestack.net/autogen)
+ - [ServiceStack Studio](https://docs.servicestack.net/studio)
+ - [Add ServiceStack Reference](https://docs.servicestack.net/add-servicestack-reference)
 
 ## [New TechStacks](https://github.com/NetCoreApps/TechStacks)
 
