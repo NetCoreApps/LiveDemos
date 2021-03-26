@@ -104,9 +104,9 @@ TechStacks makes it easy to find, discuss and share information on your favorite
 
 Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO capabilities](http://antirez.com/news/104):
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redis-geo/redisgeo-screenshot.png)](http://redisgeo.netcore.io/)
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redis-geo/redisgeo-screenshot.png)](https://redis.netcore.io)
 
-> Live Demo: http://redisgeo.netcore.io
+> Live Demo: https://redis.netcore.io
 
 #### Features
 
